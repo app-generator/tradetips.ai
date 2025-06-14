@@ -78,7 +78,7 @@ module.exports = () => {
           hostname: 'picsum.photos',
         },
       ],
-      unoptimized,
+      unoptimized: true,
     },
     webpack: (config, options) => {
       config.module.rules.push({
