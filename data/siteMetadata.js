@@ -13,6 +13,7 @@ const siteMetadata = {
   email: 'tradetipsproject@gmail.com',
   medium: 'https://medium.com/@LiveTradeTips',
   x: 'https://x.com/LiveTradeTips',
+  youtube: 'https://www.youtube.com/@LiveTradeTips',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,

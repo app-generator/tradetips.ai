@@ -1,6 +1,9 @@
 {
-  "stock-market": 1,
-  "finance": 1,
-  "trading": 1,
-  "community": 1
+  "about": 2,
+  "manifest": 2,
+  "stock-market": 2,
+  "finance": 2,
+  "trading": 2,
+  "community": 2,
+  "pro-account": 1
 }
