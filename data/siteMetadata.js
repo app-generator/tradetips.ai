@@ -11,8 +11,8 @@ const siteMetadata = {
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   email: 'tradetipsproject@gmail.com',
-  //medium: 'https://medium.com/@tradetips',
-  x: 'https://x.com/Sm0keDev',
+  medium: 'https://medium.com/@LiveTradeTips',
+  x: 'https://x.com/LiveTradeTips',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
