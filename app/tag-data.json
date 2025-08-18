@@ -2,8 +2,10 @@
   "about": 2,
   "manifest": 2,
   "stock-market": 3,
-  "finance": 3,
+  "finance": 2,
   "trading": 3,
-  "community": 3,
-  "pro-account": 1
+  "community": 2,
+  "pro-account": 1,
+  "jp225": 1,
+  "nikkei-225": 1
 }
